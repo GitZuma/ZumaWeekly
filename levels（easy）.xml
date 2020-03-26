@@ -255,97 +255,97 @@
 <Settings id="triple20"   speed="0.80"  start="45" score="5000" slowfactor="1" powerfreq="5000" />
 
 
-<Settings id="lvl11"  speed="0.50" start="25" score="1000" repeat="40" colors="4" reloaddelay="0" mergespeed="0.05" firespeed="6" repeat="50" partime="25"/>
-<Settings id="lvl12"  speed="0.55" start="35" score="1000" repeat="40" colors="4" reloaddelay="0" mergespeed="0.05" firespeed="6" repeat="50" partime="35"/>
-<Settings id="lvl13"  speed="0.55" start="35" score="1500" partime="40"/>
-<Settings id="lvl14"  speed="0.60" start="40" score="1500" partime="50"/>
-<Settings id="lvl15"  speed="0.60" start="45" score="2000" partime="55"/>
+<Settings id="lvl11"  speed="0.45" start="20" score="500" repeat="40" colors="4" reloaddelay="0" mergespeed="0.05" firespeed="6" repeat="50" partime="25"/>
+<Settings id="lvl12"  speed="0.50" start="30" score="500" repeat="40" colors="4" reloaddelay="0" mergespeed="0.05" firespeed="6" repeat="50" partime="35"/>
+<Settings id="lvl13"  speed="0.50" start="30" score="1000" partime="40"/>
+<Settings id="lvl14"  speed="0.55" start="35" score="1000" partime="50"/>
+<Settings id="lvl15"  speed="0.55" start="40" score="1500" partime="55"/>
 
-<Settings id="lvl21"  speed="0.65" start="50" score="2500" partime="70"/>
-<Settings id="lvl22"  speed="0.75" start="55" score="2500" partime="75"/>	
-<Settings id="lvl23"  speed="0.75" start="45" score="3000" partime="80"/>	
-<Settings id="lvl24"  speed="0.75" start="45" score="3000" partime="80"/>
-<Settings id="lvl25"  speed="0.50" start="35" score="3000" partime="95"/>
+<Settings id="lvl21"  speed="0.60" start="45" score="2000" partime="70"/>
+<Settings id="lvl22"  speed="0.70" start="50" score="2000" partime="75"/>	
+<Settings id="lvl23"  speed="0.70" start="40" score="2500" partime="80"/>	
+<Settings id="lvl24"  speed="0.70" start="40" score="2500" partime="80"/>
+<Settings id="lvl25"  speed="0.45" start="30" score="2500" partime="95"/>
 
-<Settings id="lvl31"  speed="0.55" start="35" score="3750" partime="100"/>
-<Settings id="lvl32"  speed="0.55" start="35" score="3750" partime="105"/>	
-<Settings id="lvl33"  speed="0.60" start="40" score="4000" partime="110"/>	
-<Settings id="lvl34"  speed="0.60" start="40" score="4000" slowfactor="3.5" partime="115"/>
-<Settings id="lvl35"  speed="0.60" start="40" score="4000" single="5" zumaslow="800" zumaback="300" partime="115"/>	
+<Settings id="lvl31"  speed="0.50" start="30" score="3250" partime="100"/>
+<Settings id="lvl32"  speed="0.50" start="30" score="3250" partime="105"/>	
+<Settings id="lvl33"  speed="0.55" start="35" score="3500" partime="110"/>	
+<Settings id="lvl34"  speed="0.55" start="35" score="3500" slowfactor="3.5" partime="115"/>
+<Settings id="lvl35"  speed="0.55" start="35" score="3500" single="5" zumaslow="800" zumaback="300" partime="115"/>	
 
-<Settings id="lvl41"  speed="0.55" start="35" score="2000" partime="70"/>
-<Settings id="lvl42"  speed="0.60" start="45" score="2250" partime="80"/>
-<Settings id="lvl43"  speed="0.60" start="45" score="2500" slowfactor="3.5" partime="85"/>
-<Settings id="lvl44"  speed="0.65" start="50" score="2750" partime="90"/>
-<Settings id="lvl45"  speed="0.70" start="50" score="3500" slowfactor="3.5" partime="105"/>
-<Settings id="lvl46"  speed="0.55" start="40" score="3500" slowfactor="3.5" partime="110"/>
+<Settings id="lvl41"  speed="0.50" start="30" score="1500" partime="70"/>
+<Settings id="lvl42"  speed="0.55" start="40" score="1750" partime="80"/>
+<Settings id="lvl43"  speed="0.55" start="40" score="2000" slowfactor="3.5" partime="85"/>
+<Settings id="lvl44"  speed="0.60" start="45" score="2250" partime="90"/>
+<Settings id="lvl45"  speed="0.65" start="45" score="3000" slowfactor="3.5" partime="105"/>
+<Settings id="lvl46"  speed="0.50" start="35" score="3000" slowfactor="3.5" partime="110"/>
 
-<Settings id="lvl51"  speed="0.75" start="55" score="3500" partime="110"/>
-<Settings id="lvl52"  speed="0.80" start="60" score="3500" partime="115"/>	
-<Settings id="lvl53"  speed="0.80" start="50" score="3750" slowfactor="3.5" partime="120"/>	
-<Settings id="lvl54"  speed="0.80" start="50" score="3750" slowfactor="3.5" partime="125"/>
-<Settings id="lvl55"  speed="0.55" start="40" score="4000" partime="140"/>	
-<Settings id="lvl56"  speed="0.55" start="45" score="4000" slowfactor="3.5" partime="145"/>
+<Settings id="lvl51"  speed="0.70" start="50" score="3000" partime="110"/>
+<Settings id="lvl52"  speed="0.75" start="55" score="3000" partime="115"/>	
+<Settings id="lvl53"  speed="0.75" start="45" score="3250" slowfactor="3.5" partime="120"/>	
+<Settings id="lvl54"  speed="0.75" start="45" score="3250" slowfactor="3.5" partime="125"/>
+<Settings id="lvl55"  speed="0.50" start="35" score="3500" partime="140"/>	
+<Settings id="lvl56"  speed="0.50" start="40" score="3500" slowfactor="3.5" partime="145"/>
 
-<Settings id="lvl61"  speed="0.60" start="40" score="4500" single="6" partime="150"/>
-<Settings id="lvl62"  speed="0.60" start="40" score="4500" single="6" partime="155"/>	
-<Settings id="lvl63"  speed="0.65" start="45" score="4500" slowfactor="3.5" partime="160"/>
-<Settings id="lvl64"  speed="0.65" start="45" score="4750" single="6" slowfactor="3.5" partime="165"/>
-<Settings id="lvl65"  speed="0.65" start="45" score="4750" single="6" slowfactor="3.5" partime="170"/>	
-<Settings id="lvl66"  speed="0.50" start="25" score="4750" slowfactor="3.5" partime="175"/>
+<Settings id="lvl61"  speed="0.55" start="35" score="4000" single="6" partime="150"/>
+<Settings id="lvl62"  speed="0.55" start="35" score="4000" single="6" partime="155"/>	
+<Settings id="lvl63"  speed="0.60" start="40" score="4000" slowfactor="3.5" partime="160"/>
+<Settings id="lvl64"  speed="0.60" start="40" score="4250" single="6" slowfactor="3.5" partime="165"/>
+<Settings id="lvl65"  speed="0.60" start="40" score="4250" single="6" slowfactor="3.5" partime="170"/>	
+<Settings id="lvl66"  speed="0.25" start="20" score="4250" slowfactor="3.5" partime="175"/>
 
-<Settings id="lvl71"  speed="0.65" start="45" score="2500" slowfactor="3.5" partime="110"/>
-<Settings id="lvl72"  speed="0.70" start="55" score="2500" slowfactor="3.5" partime="120"/>
-<Settings id="lvl73"  speed="0.70" start="55" score="3000" slowfactor="3.5" partime="125"/>
-<Settings id="lvl74"  speed="0.75" start="60" score="3250" slowfactor="3.5" partime="130"/>
-<Settings id="lvl75"  speed="0.80" start="65" score="3250" single="7" partime="135"/>
-<Settings id="lvl76"  speed="0.60" start="45" score="3500" slowfactor="3.5" partime="150"/>
-<Settings id="lvl77"  speed="0.60" start="45" score="3500" single="7" partime="155"/>
+<Settings id="lvl71"  speed="0.60" start="40" score="2000" slowfactor="3.5" partime="110"/>
+<Settings id="lvl72"  speed="0.65" start="50" score="2000" slowfactor="3.5" partime="120"/>
+<Settings id="lvl73"  speed="0.65" start="50" score="2500" slowfactor="3.5" partime="125"/>
+<Settings id="lvl74"  speed="0.70" start="55" score="2750" slowfactor="3.5" partime="130"/>
+<Settings id="lvl75"  speed="0.75" start="60" score="2750" single="7" partime="135"/>
+<Settings id="lvl76"  speed="0.55" start="40" score="3000" slowfactor="3.5" partime="150"/>
+<Settings id="lvl77"  speed="0.55" start="40" score="3000" single="7" partime="155"/>
 
-<Settings id="lvl81"  speed="0.80" start="60" score="3750" partime="145"/>
-<Settings id="lvl82"  speed="0.85" start="65" score="3750" partime="150"/>	
-<Settings id="lvl83"  speed="0.85" start="55" score="4000" slowfactor="3.5" partime="155"/>	
-<Settings id="lvl84"  speed="0.85" start="55" score="4250" slowfactor="3.5" partime="155"/>
-<Settings id="lvl85"  speed="0.60" start="45" score="4500" partime="170"/>	
-<Settings id="lvl86"  speed="0.60" start="50" score="4500" partime="175"/>
-<Settings id="lvl87"  speed="0.60" start="50" score="4500" partime="180"/>
+<Settings id="lvl81"  speed="0.75" start="55" score="3250" partime="145" />
+<Settings id="lvl82"  speed="0.80" start="60" score="3250" partime="150"/>	
+<Settings id="lvl83"  speed="0.80" start="50" score="3500" slowfactor="3.5" partime="155"/>	
+<Settings id="lvl84"  speed="0.80" start="50" score="3750" slowfactor="3.5" partime="155"/>
+<Settings id="lvl85"  speed="0.55" start="40" score="4000" partime="170"/>	
+<Settings id="lvl86"  speed="0.55" start="45" score="4000" partime="175"/>
+<Settings id="lvl87"  speed="0.55" start="45" score="4000" partime="180"/>
 
-<Settings id="lvl91"  speed="0.65" start="45" score="4500" slowfactor="3.5" partime="185"/>
-<Settings id="lvl92"  speed="0.65" start="45" score="4500" single="7" slowfactor="3.5" partime="190"/>	
-<Settings id="lvl93"  speed="0.70" start="50" score="4500" slowfactor="3.5" partime="195"/>
-<Settings id="lvl94"  speed="0.70" start="50" score="4750" single="7" slowfactor="3.5" partime="200"/>
-<Settings id="lvl95"  speed="0.70" start="50" score="4750" slowfactor="3.5" partime="205"/>	
-<Settings id="lvl96"  speed="0.55" start="30" score="4750" single="7" slowfactor="3.5" partime="210"/>
-<Settings id="lvl97"  speed="0.70" start="55" score="4750" slowfactor="3.5" partime="215"/>
+<Settings id="lvl91"  speed="0.60" start="40" score="4000" slowfactor="3.5" partime="185" />
+<Settings id="lvl92"  speed="0.60" start="40" score="4000" single="7" slowfactor="3.5" partime="190"/>	
+<Settings id="lvl93"  speed="0.65" start="45" score="4000" slowfactor="3.5" partime="195"/>
+<Settings id="lvl94"  speed="0.65" start="45" score="4250" single="7" slowfactor="3.5" partime="200"/>
+<Settings id="lvl95"  speed="0.65" start="45" score="4250" slowfactor="3.5" partime="205"/>	
+<Settings id="lvl96"  speed="0.35" start="25" score="4250" single="7" slowfactor="3.5" partime="210"/>
+<Settings id="lvl97"  speed="0.65" start="50" score="4250" slowfactor="3.5" partime="215"/>
 
-<Settings id="lvl101"  speed="0.75" start="60" score="5000" slowfactor="3.5" partime="160"/>
-<Settings id="lvl102"  speed="0.80" start="60" score="5000" slowfactor="3.5" partime="165"/>	
-<Settings id="lvl103"  speed="0.80" start="65" score="5000" slowfactor="3.5" partime="170"/>		
-<Settings id="lvl104"  speed="0.85" start="70" score="5000" slowfactor="3.5" partime="175"/>
-<Settings id="lvl105"  speed="0.90" start="75" score="5000" single="8" slowfactor="3.5" partime="180"/>
-<Settings id="lvl106"  speed="0.65" start="50" score="5000" slowfactor="3.5" partime="200"/>	
-<Settings id="lvl107"  speed="0.65" start="50" score="5000" partime="205"/>
-<Settings id="lvl108"  speed="0.70" start="55" score="5000" partime="210"/>
+<Settings id="lvl101"  speed="0.70" start="55" score="4500" slowfactor="3.5" partime="160"/>
+<Settings id="lvl102"  speed="0.75" start="55" score="4500" slowfactor="3.5" partime="165"/>	
+<Settings id="lvl103"  speed="0.75" start="60" score="4500" slowfactor="3.5" partime="170"/>		
+<Settings id="lvl104"  speed="0.80" start="65" score="4500" slowfactor="3.5" partime="175"/>
+<Settings id="lvl105"  speed="0.85" start="70" score="4500" single="8" slowfactor="3.5" partime="180"/>
+<Settings id="lvl106"  speed="0.60" start="45" score="4500" slowfactor="3.5" partime="200"/>	
+<Settings id="lvl107"  speed="0.60" start="45" score="4500" partime="205"/>
+<Settings id="lvl108"  speed="0.65" start="50" score="4500" partime="210"/>
 
-<Settings id="lvl111"  speed="0.85" start="65" score="5000" partime="180"/>
-<Settings id="lvl112"  speed="0.90" start="70" score="5000" partime="185"/>	
-<Settings id="lvl113"  speed="0.90" start="60" score="5000" slowfactor="3.5" partime="190"/>	
-<Settings id="lvl114"  speed="0.90" start="60" score="5000" partime="195"/>
-<Settings id="lvl115"  speed="0.65" start="50" score="5000" slowfactor="3.5" partime="210"/>
-<Settings id="lvl116"  speed="0.65" start="55" score="5000" partime="215"/>
-<Settings id="lvl117"  speed="0.70" start="55" score="5000" partime="220"/>
-<Settings id="lvl118"  speed="0.70" start="55" score="5000" partime="225"/>
+<Settings id="lvl111"  speed="0.80" start="60" score="4500" partime="180"/>
+<Settings id="lvl112"  speed="0.85" start="65" score="4500" partime="185"/>	
+<Settings id="lvl113"  speed="0.85" start="55" score="4500" slowfactor="3.5" partime="190"/>	
+<Settings id="lvl114"  speed="0.85" start="55" score="4500" partime="195"/>
+<Settings id="lvl115"  speed="0.60" start="45" score="4500" slowfactor="3.5" partime="210"/>
+<Settings id="lvl116"  speed="0.60" start="50" score="4500" partime="215"/>
+<Settings id="lvl117"  speed="0.65" start="50" score="4500" partime="220"/>
+<Settings id="lvl118"  speed="0.65" start="50" score="4500" partime="225"/>
 
-<Settings id="lvl121"  speed="0.70" start="50" score="5000" slowfactor="3.5" partime="230"/>
-<Settings id="lvl122"  speed="0.70" start="50" score="5000" slowfactor="3.5" partime="235"/>
-<Settings id="lvl123"  speed="0.75" start="55" score="5000" slowfactor="3.5" partime="235"/>
-<Settings id="lvl124"  speed="0.75" start="55" score="5000" slowfactor="3.5" partime="240"/>
-<Settings id="lvl125"  speed="0.75" start="55" score="5000" single="8" slowfactor="3.5" partime="245"/>
-<Settings id="lvl126"  speed="0.60" start="35" score="5000" slowfactor="3.5" partime="245"/>
-<Settings id="lvl127"  speed="0.80" start="50" score="5000" slowfactor="3.5" partime="250"/>
-<Settings id="lvl128"  speed="0.70" start="45" score="5000" slowfactor="3" partime="250"/>
+<Settings id="lvl121"  speed="0.65" start="45" score="4500" slowfactor="3.5" partime="230"/>
+<Settings id="lvl122"  speed="0.65" start="45" score="4500" slowfactor="3.5" partime="235"/>
+<Settings id="lvl123"  speed="0.70" start="50" score="4500" slowfactor="3.5" partime="235"/>
+<Settings id="lvl124"  speed="0.70" start="50" score="4500" slowfactor="3.5" partime="240"/>
+<Settings id="lvl125"  speed="0.70" start="50" score="4500" single="8" slowfactor="3.5" partime="245"/>
+<Settings id="lvl126"  speed="0.45" start="30" score="4500" slowfactor="3.5" partime="245"/>
+<Settings id="lvl127"  speed="0.75" start="45" score="4500" slowfactor="3.5" partime="250"/>
+<Settings id="lvl128"  speed="0.60" start="30" score="4500" slowfactor="3.5" partime="250"/>
 
-<Settings id="lvl131"  speed="0.75" start="50" score="10000" slowfactor="3" powerfreq="2500" zumaback="300" zumaslow="1000" partime="270"/>
+<Settings id="lvl131"  speed="0.65" start="35" score="5000" slowfactor="4" powerfreq="2500" zumaback="300" zumaslow="1000" partime="270"/>
 
 
 <LevelProgression 
@@ -362,8 +362,8 @@
 
 <LevelProgression 
 	id="triple" 
-	settings="triple1,triple2,triple3,triple4,triple5,triple6,triple7,triple8,triple9,triple10,triple11,triple12,triple13,triple14,triple15,triple16,triple17,triple18,triple19"
-	difficulty="8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26"
+	settings="triple1,triple2,triple3,triple4,triple5,triple6,triple7,triple8,triple9,triple10,triple11,triple12,triple13,triple14,triple15,triple16,triple17,triple18,triple19,triple20"
+	difficulty="8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27"
 	/>
 
 
